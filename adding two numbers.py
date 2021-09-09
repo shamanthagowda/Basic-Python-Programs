@@ -4,4 +4,5 @@ def addition(a,**b):
 num1=int(input('enter the first number'))
 num2=int(input('enter the second number'))
 
-print(addition(num1,num2)
+add=additiion(num1,num2)
+print(add)
